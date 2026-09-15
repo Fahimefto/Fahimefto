@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Fahim Iftekhar Efto 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+engineer.;AI+that+survives+production.;TypeScript+by+day%2C+weird+experiments+by+night.;I+ship." alt="Full-stack engineer. AI that survives production. I ship.">
+</p>
+
+<p align="center">
   Software Engineer at <a href="https://wayside.io">Wayside AI</a> · Dhaka, Bangladesh
 </p>
 
@@ -14,12 +18,17 @@
 
 ## About me
 
-I'm Fahim. I write software for a living, and honestly for fun too.
+Building things that work is the easy part. Building things that *keep* working when real people and real money depend on them? That's the fun part.
 
-Right now I'm at [Wayside AI](https://wayside.io) in Dhaka, building AI automation for PEOs. Most of my day is TypeScript: Node and NestJS on the back, Next.js on the front, Postgres and Redis somewhere underneath. The interesting part of the job isn't the model. It's making the whole thing reliable enough that a business can actually run on it.
+That's my job at [Wayside AI](https://wayside.io), where we're teaching AI to handle the operational grind for PEOs so humans don't have to. Think less "chatbot demo," more "this thing runs a business process at 3 AM and nobody has to babysit it."
 
+My weapon of choice is TypeScript, end to end. NestJS and Node in the engine room, Next.js up front, Postgres and Redis keeping score. But I don't stay in my lane. I've shipped Go, Python, Java, and C++ when they were the right tool, and I'll pick up whatever the next problem demands.
 
-If you want to talk shop about backends, AI in production, or something you're hacking on, my inbox is open.
+When I'm not shipping, I'm taking things apart. What happens if you run gRPC on Deno with zero build step? Can two laptops swap files over Wi-Fi with no cloud and no accounts? Turns out: yes, and yes. The receipts are in my repos.
+
+It started at SUST, studying Software Engineering and building the real, public-facing sites for the IICT institute and the SWE society while still a student. I haven't stopped shipping since. A few thousand contributions a year and counting.
+
+Got a hard backend problem, an AI feature that needs to survive contact with production, or a wild side project? Let's talk.
 
 ## Tech I work with
 
