@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Fahim Iftekhar Efto 👋</h1>
 
 <p align="center">
-  Software Engineer at <a href="https://wayside.io">Wayside AI</a> · Dhaka, Bangladesh<br>
-  <sub>Building production systems end to end, with AI in the loop.</sub>
+  Software Engineer at <a href="https://wayside.io">Wayside AI</a> · Dhaka, Bangladesh
 </p>
 
 <p align="center">
@@ -15,14 +14,15 @@
 
 ## About me
 
-I'm a software engineer who likes to own a problem end to end: the data model, the API, the UI, and the pipeline that ships it. At **[Wayside AI](https://wayside.io)** I build AI-driven automation that takes repetitive operational work off the plates of PEOs, which means shipping AI features that have to be dependable in production, not just in a demo.
+I'm Fahim. I write software for a living, and honestly for fun too.
 
-- **TypeScript across the stack, by choice.** Node.js and NestJS services, Next.js and React front ends, with PostgreSQL, MongoDB, and Redis underneath. I care about clear boundaries, typed contracts, and code the next engineer can read without a tour.
-- **Curious about how systems talk to each other.** Off the clock I build things like gRPC services on Deno, peer-to-peer file transfer over LAN with UDP discovery, micro-frontend architectures, and backends in Go and FastAPI.
-- **Shipped for real users early.** Built and ran the public web platforms for SUST's Institute of ICT and its Software Engineering Society while completing my Software Engineering degree there.
-- **Bias for shipping.** A few thousand contributions a year across production codebases. I'd rather put a working version in front of people and iterate than debate it in a doc.
+Right now I'm at [Wayside AI](https://wayside.io) in Dhaka, building AI automation for PEOs. Most of my day is TypeScript: Node and NestJS on the back, Next.js on the front, Postgres and Redis somewhere underneath. The interesting part of the job isn't the model. It's making the whole thing reliable enough that a business can actually run on it.
 
-Always up for a conversation about backend architecture, AI in production, or a side project that needs a second pair of hands.
+I get restless working on just one layer, so I tend to wander across the stack. I also can't leave a "wait, how does that even work?" question alone, which is how I ended up with a gRPC server on Deno, a peer-to-peer file sharer that finds devices over UDP, and a few Go and FastAPI experiments sitting in my repos.
+
+I studied Software Engineering at SUST, where I built the websites for the IICT institute and the SWE society, mostly because nobody else was going to.
+
+If you want to talk shop about backends, AI in production, or something you're hacking on, my inbox is open.
 
 ## Tech I work with
 
