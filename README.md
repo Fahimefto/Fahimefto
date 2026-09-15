@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Fahim Iftekhar Efto 👋</h1>
 
 <p align="center">
-  Software Engineer at <a href="https://wayside.io">Wayside AI</a> · Dhaka, Bangladesh
+  Software Engineer at <a href="https://wayside.io">Wayside AI</a> · Dhaka, Bangladesh<br>
+  <sub>Building production systems end to end, with AI in the loop.</sub>
 </p>
 
 <p align="center">
@@ -14,11 +15,14 @@
 
 ## About me
 
-- 🧠 I build **AI-powered automation** at Wayside AI, where we help PEOs (professional employer organizations) run their operations with less manual work.
-- 🛠️ I work across the whole stack: **TypeScript / Node.js** services, **Next.js / React** front ends, and the databases and infra that hold them together.
-- 🎓 I studied **Software Engineering at Shahjalal University of Science and Technology (SUST)**, where I also built websites for the university and its student societies.
-- 🔬 I like poking at things outside my day job: gRPC on Deno, peer-to-peer file transfer over LAN, Go, FastAPI, micro-frontends.
-- 🤝 Open to collaborating on open source and interesting side projects. Feel free to reach out.
+I'm a software engineer who likes to own a problem end to end: the data model, the API, the UI, and the pipeline that ships it. At **[Wayside AI](https://wayside.io)** I build AI-driven automation that takes repetitive operational work off the plates of PEOs, which means shipping AI features that have to be dependable in production, not just in a demo.
+
+- **TypeScript across the stack, by choice.** Node.js and NestJS services, Next.js and React front ends, with PostgreSQL, MongoDB, and Redis underneath. I care about clear boundaries, typed contracts, and code the next engineer can read without a tour.
+- **Curious about how systems talk to each other.** Off the clock I build things like gRPC services on Deno, peer-to-peer file transfer over LAN with UDP discovery, micro-frontend architectures, and backends in Go and FastAPI.
+- **Shipped for real users early.** Built and ran the public web platforms for SUST's Institute of ICT and its Software Engineering Society while completing my Software Engineering degree there.
+- **Bias for shipping.** A few thousand contributions a year across production codebases. I'd rather put a working version in front of people and iterate than debate it in a doc.
+
+Always up for a conversation about backend architecture, AI in production, or a side project that needs a second pair of hands.
 
 ## Tech I work with
 
