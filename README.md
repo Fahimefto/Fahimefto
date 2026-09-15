@@ -75,12 +75,12 @@ More in my [repositories](https://github.com/Fahimefto?tab=repositories).
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fahimefto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimefto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahimefto&theme=tokyonight" alt="GitHub stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimefto&theme=tokyonight" alt="Repos per language" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fahimefto&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=Fahimefto&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
