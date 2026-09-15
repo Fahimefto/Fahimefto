@@ -63,12 +63,12 @@
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fahimefto&theme=tokyonight" alt="GitHub stats" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimefto&theme=tokyonight" alt="Repos per language" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahimefto&theme=tokyonight" alt="GitHub profile details" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fahimefto&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=Fahimefto&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimefto&theme=tokyonight" alt="Repos per language" height="180">
 </p>
 
 ---
