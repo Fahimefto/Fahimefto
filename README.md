@@ -18,9 +18,6 @@ I'm Fahim. I write software for a living, and honestly for fun too.
 
 Right now I'm at [Wayside AI](https://wayside.io) in Dhaka, building AI automation for PEOs. Most of my day is TypeScript: Node and NestJS on the back, Next.js on the front, Postgres and Redis somewhere underneath. The interesting part of the job isn't the model. It's making the whole thing reliable enough that a business can actually run on it.
 
-I get restless working on just one layer, so I tend to wander across the stack. I also can't leave a "wait, how does that even work?" question alone, which is how I ended up with a gRPC server on Deno, a peer-to-peer file sharer that finds devices over UDP, and a few Go and FastAPI experiments sitting in my repos.
-
-I studied Software Engineering at SUST, where I built the websites for the IICT institute and the SWE society, mostly because nobody else was going to.
 
 If you want to talk shop about backends, AI in production, or something you're hacking on, my inbox is open.
 
