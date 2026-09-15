@@ -60,18 +60,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Featured projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [**P2P-Share**](https://github.com/Fahimefto/P2P-Share) | Peer-to-peer file transfer over local Wi-Fi. Devices find each other via UDP broadcast and send files directly, with no cloud and no accounts. | Node.js, UDP, Web UI |
-| [**grpc-deno**](https://github.com/Fahimefto/grpc-deno) | A minimal gRPC service on Deno 2 with no `protoc` step and no `npm install`. A small, clean starting point for gRPC in Deno. | Deno, TypeScript, gRPC |
-| [**iict-sust**](https://github.com/Fahimefto/iict-sust) | Website for the Institute of Information and Communication Technology, SUST. [Live site](https://iict-sust.vercel.app). | Next.js, Express, MongoDB, Redis |
-| [**nextjs-antdesign-styledCom**](https://github.com/Fahimefto/nextjs-antdesign-styledCom) | A Next.js template wiring up Ant Design and styled-components with server-side rendering that actually works. | Next.js, Ant Design, styled-components |
-| [**Quiz-Plus**](https://github.com/Fahimefto/Quiz-Plus) | An online exam management app for creating and taking quizzes. | React, Firebase |
-
-More in my [repositories](https://github.com/Fahimefto?tab=repositories).
-
 ## GitHub stats
 
 <p align="center">
