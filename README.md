@@ -11,7 +11,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahimefto&theme=tokyonight" alt="Repos per language" height="180">
 </p>
 
-
-<p align="center">
-  Thanks for stopping by. If something here interests you, I'd love to hear from you.
-</p>
