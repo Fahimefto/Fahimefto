@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Fahim Iftekhar Efto 👋</h1>
-
 ## GitHub stats
 
 <p align="center">
